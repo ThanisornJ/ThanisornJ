@@ -1,5 +1,6 @@
-## Hi there 👋
-Hi, I'm Thanisorn! I'm a computer engineering masters student with some DevOps and SRE expertise. Code performance improvement is something that interests me.
+## <div align="center">Hi there 👋,I'm Thanisorn</div>
+### A computer engineering masters student with some DevOps and SRE expertise.
+Code performance improvement is something that interests me.
 
 ## Expertise :fire:
 - Laravel
